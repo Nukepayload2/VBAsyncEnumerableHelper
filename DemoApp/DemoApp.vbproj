@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DemoApp</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nukepayload2.CompilerServices.AsyncHelpers\Nukepayload2.CompilerServices.AsyncHelpers.vbproj" />
+  </ItemGroup>
+
+</Project>
